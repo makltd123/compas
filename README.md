@@ -1,10 +1,10 @@
-# Alqira — semantic search for Russian companies
+# Compas — semantic search for Russian companies
 
 **English** | [Русский](README.ru.md)
 
 A B2B search engine that finds Russian companies by the meaning of a request instead of keywords. You write the way you would ask a colleague — "metal structure manufacturers in Yekaterinburg" or "IT outsourcing for banks, Kazan" — and get matching companies with contacts, a description and financial data.
 
-Built in 2026 as a startup (first as Compas, then renamed Alqira). The product code and data are private; this repository describes how it works and how well it works.
+Built in 2026 as a startup. The product code and data are private; this repository describes how it works and how well it works.
 
 ## What it does
 
