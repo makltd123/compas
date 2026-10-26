@@ -90,3 +90,7 @@ Node.js + Express · Python + Flask embedding service · sentence-transformers (
 ## Status
 
 The live site is offline. The code is proprietary and kept in a private repository; this repository contains documentation only.
+
+---
+
+Author: [Fedor Makovskiy](https://fedor.alqira.ru), AI developer. Services and projects with quality metrics: [fedor.alqira.ru](https://fedor.alqira.ru).
